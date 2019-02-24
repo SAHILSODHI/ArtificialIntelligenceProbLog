@@ -24,4 +24,4 @@ Number of iterations : 66
 Time taken: 125 ms
 Total Facts : 98
 Used memory : 1 MB
-Output file : /Users/karandhingra/Documents/MyConcordia/KnowledgeBaseSyasytems/Project/ProbLog/test_data/output.pl
+Output file : /Users/sahilsodhi/Documents/AI/ArtificialIntelligenceProbLog
