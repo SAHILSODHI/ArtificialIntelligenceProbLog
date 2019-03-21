@@ -1,5 +1,5 @@
 # ArtificialIntelligenceProbLog
-Probabilistic Prolog Engine
+Probabilistic Datalog Engine
 
 Designed and implemented a probabilistic datalog engine in Java. The system supports both naive and semi-naive evaluation methods, to extract new facts(with uncertainties) from the fact database and set of rules.
 
